@@ -1,6 +1,10 @@
-<a href="https://www.linkedin.com/in/emrancu/"><img src="https://github.com/emrancub/emrancub/blob/main/asstes/cover.jpg" height="" width="">
+<a href="https://www.linkedin.com/in/emrancu/"><img src="https://github.com/emrancub/emrancub/blob/main/asstes/cover.jpg" height="" width=""> <br>
 
-### Hi ! 👋
+### Hi ! 👋<br>
+  
+<h3>Hi there! 👋🤓<br>I'm Md. Emran Hasan<br>a Web Developer, <br>, Designer, <br>Creator</h3>
+  
+<h1 align='center'><i>Stay awesome!</i></h1>
 
 <!--
 **emrancub/emrancub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
