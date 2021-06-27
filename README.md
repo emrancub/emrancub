@@ -4,7 +4,7 @@
 <p align='center'>
 I'm Emran Hasan!.
 </p>
-<h3>I am a Web Developer, Web Designer, Creator and Teacher</h3>
+<h3 align='center'>I am a Web Developer, Web Designer, Creator and Teacher</h3>
 
 
 <h1 align='center'><i>Stay awesome with me!</i></h1>
