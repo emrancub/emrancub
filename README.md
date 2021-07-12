@@ -32,4 +32,4 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/MdEmran90612568
-[2]: https://www.linkedin.com/in/emrancu/
+[2]: https://www.linkedin.com/in/emrancu
