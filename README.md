@@ -27,7 +27,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://image.flaticon.com/icons/png/512/174/174857.png (LinkedIn icon without padding)
+[2.2]: https://github.com/emrancub/emrancub/blob/main/asstes/linkedin-3-16.png
 
 <!-- Links to your social media accounts -->
 
