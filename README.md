@@ -26,11 +26,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: http://i.imgur.com/wWzX9uB.png 
 [2.2]: https://github.com/emrancub/emrancub/blob/main/asstes/linkedin-3-16.png
 
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/MdEmran90612568
-[2]: https://www.linkedin.com/in/emrancu
+[2]: https://www.linkedin.com/in/emrancu/
 
