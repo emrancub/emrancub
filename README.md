@@ -9,7 +9,7 @@ I'm Emran Hasan!.
 
 <h1 align='center'><i>Stay awesome with me!</i></h1>
 
-<!--
+
 **emrancub/emrancub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <p> are some ideas to get you started:</p>
@@ -19,7 +19,7 @@ I'm Emran Hasan!.
 - 👯 I’m looking to collaborate on ... <br>
 - 🤔 I’m looking for help with ...<br>
 </p>
--->
+
   <!-- Actual text -->
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
