@@ -10,10 +10,8 @@ I'm Emran Hasan!.
 <h1 align='center'><i>Stay awesome with me!</i></h1>
 
 
-**emrancub/emrancub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <p> are some ideas to get you started:</p>
-<p
+<p>
 - 🔭 I’m currently working on HTML5, CSS3, JavaScript, Bootstrap, MySQL <br>
 - 🌱 I’m currently learning React.js, Node.js, Express.js, MongoDB, Firebase, bootstrap, react form, stripe, font-awesome, react-router, material UI. <br>
 - 👯 I’m looking to collaborate on ... <br>
