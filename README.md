@@ -10,10 +10,10 @@ I'm Emran Hasan!.
 <h1 align='center'><i>Stay awesome with me!</i></h1>
 
 
-<p> About my Work: <p>
+<p> Currently Work: <p>
 <p>
 - 🔭 I’m currently working on HTML5, CSS3, JavaScript, Bootstrap, MySQL <br>
-- 🌱 I’m currently learning React.js, Node.js, Express.js, MongoDB, Firebase, bootstrap, react form, stripe, font-awesome, react-router, material UI. <br>
+- 🌱 I’m currently learning React.js, Node.js, Express.js, MongoDB, Firebase, bootstrap, react form, stripe, font-awesome, react-router <br>
 - 👯 I’m looking to collaborate on some softrwere enginerring projects <br>
 - 🤔 I’m looking for help with some intaresting projects <br>
 </p>
