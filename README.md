@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/emrancu/"><img src="https://github.com/emrancub/emrancub/blob/main/asstes/cover.jpg" height="" width=""> <br>
+<a href="https://www.linkedin.com/in/emrancu/"><img src="https://github.com/emrancub/emrancub/blob/main/asstes/Md%20Emran%20Hasan.png" height="" width=""> <br>
   
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
